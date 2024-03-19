@@ -5,7 +5,7 @@ Upload m5Pro.sh to /config/shell/m5Pro.sh
 
 In configuration.yaml add a shell command to issue commands to device and retreive status.
 
-EXAMPLE:
+EXAMPLE(for some reason carrige returns aren't showing. view in raw for proper format):
 m5proIPAddress: 127.0.0.1
 shell_command:  
   5mprostatus: bash /config/shell/5mPro.sh status var(m5proIPAddress)
