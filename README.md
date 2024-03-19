@@ -1,5 +1,5 @@
 # m5proHomeAssistant
-A very crude integration for M5 Pro in Home Assistant
+A very crude "integration" for M5 Pro in Home Assistant
 
 Upload m5Pro.sh to /config/shell/m5Pro.sh
 
